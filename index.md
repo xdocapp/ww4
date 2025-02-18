@@ -37,13 +37,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Feature 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+##### Feature 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
